@@ -12,6 +12,7 @@ This is a simple scientific calculator that works with tkinter to provide a user
 
 ### Libraries
 - tkinter
+- math
 
 ## Usage
 The project can be useful to do simple and complex calculations involving functions understood by the calculator. It gives precise values making it reliable.
