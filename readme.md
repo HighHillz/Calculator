@@ -5,23 +5,29 @@ This is a simple scientific calculator that works with tkinter to provide a user
 ## Features
 - Arithmetic operations
 - Scientific calculations (exponential, logarithmic, trigonometry, modulus, e and pi)
+- History section that stores previous calculations for verification and access.
 
 ## Technologies
 ### Languages
 - Python
 
 ### Libraries
-- tkinter
+- customtkinter
 - math
 
 ## Usage
 The project can be useful to do simple and complex calculations involving functions understood by the calculator. It gives precise values making it reliable.
 
+## Updates
+- New UI
+- The equation is visible after evaluation. i.e. After clicking "=".
+
+- NEW FEATURE! History : Stores all previous calculations which can be accessed at any point.
+
 ## Future Enhancements
-- Show the original equation after clicking  "="
 - Round of trigonometric values to 2 decimal places.
-- Ability to add modulus and log to specific part of the equation
-- Bind keys
+- Ability to add modulus and log to specific part of the equation.
+- Bind keys.
 
 ## Version
-1
+1.1
