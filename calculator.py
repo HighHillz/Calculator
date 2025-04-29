@@ -1,5 +1,3 @@
-# In progress: Polishing history UI
-
 import customtkinter as ctk
 import math
 
