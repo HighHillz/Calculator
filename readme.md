@@ -24,10 +24,5 @@ The project can be useful to do simple and complex calculations involving functi
 
 - NEW FEATURE! History : Stores all previous calculations which can be accessed at any point.
 
-## Future Enhancements
-- Round of trigonometric values to 2 decimal places.
-- Ability to add modulus and log to specific part of the equation.
-- Bind keys.
-
 ## Version
 1.1
