@@ -26,4 +26,4 @@ The project can be useful to do simple and complex calculations involving functi
 - NEW FEATURE: Guess the Number Game: Guess SigmaBot's number in 7 chances!
 
 ## Version
-2.0
+2
